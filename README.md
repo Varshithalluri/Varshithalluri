@@ -2,4 +2,3 @@
 - 👀 I’m interested in Game development and graphic designing
 - 🌱 I’m currently learning C++ / C / Java
 - 📫 How to reach me, send an email to avsvarma7@gmail.com
-- 
