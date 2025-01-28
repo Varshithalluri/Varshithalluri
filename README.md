@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Varshithalluri
-- 👀 I’m interested in Game development and graphic designing
-- 🌱 I’m currently learning C++ / C / Java
+- 👀 I’m interested in Cloud Computing and Game Development
+- 🌱 I’m currently learning AWS, Python and java
 - 📫 How to contact me, mail-avsvarma7@gmail.com
